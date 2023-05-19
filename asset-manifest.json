@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wordly-App/static/css/main.e13a186a.css",
+    "main.js": "/Wordly-App/static/js/main.c1c43089.js",
+    "index.html": "/Wordly-App/index.html",
+    "main.e13a186a.css.map": "/Wordly-App/static/css/main.e13a186a.css.map",
+    "main.c1c43089.js.map": "/Wordly-App/static/js/main.c1c43089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13a186a.css",
+    "static/js/main.c1c43089.js"
+  ]
+}
