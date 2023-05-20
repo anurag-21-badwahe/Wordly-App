@@ -96,6 +96,7 @@ textarea{
     border-radius:16px;
     background-color: #fff;
     margin-bottom: 5px;
+    color:black;
   }
 
   .main-content:focus {
